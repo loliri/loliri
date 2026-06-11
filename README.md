@@ -22,7 +22,7 @@
 > 初春的离去，晚樱的谢幕  
 > The departure of early spring that means the curtain call of elannesiana.
 
-<table width="100%">
+<table>
   <tr>
     <td width="150" align="center">
       <img
