@@ -9,12 +9,6 @@
 
 <br />
 
-![Blog](https://img.shields.io/badge/Blog-cialo.site-4a9eff?style=for-the-badge)
-![UTC+8](https://img.shields.io/badge/UTC+8-online-2ea043?style=for-the-badge)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4313--1149-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4313-1149)
-
-</div>
-
 ---
 
 ## About Me
