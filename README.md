@@ -2,6 +2,7 @@
 
 <!-- <img src="125649186_0.19e55e54.avif" alt="banner" width="100%" /> -->
 
+<h2>Ciallo～(∠・ω＜)⌒☆</h2>
 <h3>Coder, still learning with AI</h3>
 <h4>每一次小小的 commit，都是留下的痕迹。</h4>
 
