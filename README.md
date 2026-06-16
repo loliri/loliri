@@ -11,7 +11,7 @@
 
 ---
 
-## About Me
+## 🍓 About Me
 
 > 初春的离去，晚樱的谢幕  
 > The departure of early spring that means the curtain call of elannesiana.
@@ -34,6 +34,6 @@
   </tr>
 </table>
 
-## Moe Counter!
+## 🎄 Moe Counter!
 
 ![](https://count.getloli.com/@jhll1124?name=jhll1124&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto)
