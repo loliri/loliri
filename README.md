@@ -32,6 +32,9 @@
       日常环境：Windows 11 · Arch Linux<br />
       Editor: VSCode · 4 spaces
     </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loliri&layout=compact" alt="Top Languages" />
+    </td>
   </tr>
 </table>
 
