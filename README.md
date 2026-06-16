@@ -19,21 +19,14 @@
 
 <table>
   <tr>
-    <td width="150" align="center">
-      <img
-        src="https://avatars.githubusercontent.com/loliri"
-        width="120"
-        alt="avatar"
-      />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loliri&layout=compact" alt="Top Languages" />
     </td>
     <td>
       用 Astro + Firefly 维护 Blog，也往上游贡献过几个 fix<br />
       Vibe Coding: 把灵感变成能跑起来的东西<br />
       日常环境：Windows 11 · Arch Linux<br />
       Editor: VSCode · 4 spaces
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loliri&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
