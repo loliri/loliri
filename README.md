@@ -23,10 +23,12 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loliri&layout=compact" alt="Top Languages" />
     </td>
     <td>
-      用 Astro + Firefly 维护 Blog，也往上游贡献过几个 fix<br />
-      Vibe Coding: 把灵感变成能跑起来的东西<br />
-      日常环境：Windows 11 · Arch Linux<br />
-      Editor: VSCode · 4 spaces
+      🌱 I'm currently a university student, majoring in `Computer Science and Technology`<br />
+      🌐 My personal blog: [cialo.site](https://cialo.site) — you can also find my contact information there<br />
+      💬 Vibe Coding: 把灵感变成能跑起来的东西<br />
+      » Editor: VSCode · 4 spaces · Windows 11 · Arch Linux<br />
+      If you like my projects, feel free to give my repositories a ⭐ star ～(∠・ω< )⌒⭐<br />
+      喜欢的话就给我的仓库点个 ⭐Star 吧 ～(∠・ω< )⌒⭐
     </td>
   </tr>
 </table>
