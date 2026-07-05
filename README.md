@@ -33,4 +33,4 @@
 
 ## 🎄 Moe Counter!
 
-![](https://count.getloli.com/@jhll1124?name=jhll1124&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto)
+![Visitor Count](https://count.getloli.com/@jhll1124?name=jhll1124&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto)
