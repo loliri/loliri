@@ -17,21 +17,28 @@
 > 初春的离去，晚樱的谢幕  
 > The departure of early spring that means the curtain call of elannesiana.
 
-<table>
+🌱 I'm currently a university student, majoring in `Computer Science and Technology`
+
+💬 My personal blog: [cialo.site](https://cialo.site) — you can also find my contact information there
+
+💫 Vibe Coding: 把灵感变成能跑起来的东西
+
+🛠️ Editor: VSCode · 4 spaces · Windows 11 · Arch Linux
+
+❤️ If you like my projects, feel free to give my repositories a ⭐ star ～(∠・ω< )⌒⭐
+
+喜欢的话就给我的仓库点个 ⭐Star 吧 ～(∠・ω< )⌒⭐
+
+<!-- <table>
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loliri&layout=compact" alt="Top Languages" />
     </td>
     <td>
-      🌱 I'm currently a university student, majoring in `Computer Science and Technology`<br />
-      🌐 My personal blog: [cialo.site](https://cialo.site) — you can also find my contact information there<br />
-      💬 Vibe Coding: 把灵感变成能跑起来的东西<br />
-      » Editor: VSCode · 4 spaces · Windows 11 · Arch Linux<br />
-      If you like my projects, feel free to give my repositories a ⭐ star ～(∠・ω< )⌒⭐<br />
       喜欢的话就给我的仓库点个 ⭐Star 吧 ～(∠・ω< )⌒⭐
     </td>
   </tr>
-</table>
+</table> -->
 
 ## 🎄 Moe Counter!
 
